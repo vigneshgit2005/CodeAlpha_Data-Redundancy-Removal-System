@@ -162,7 +162,7 @@ To use with actual cloud databases (MongoDB, Firebase, etc.):
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/vigneshgit2005/CodeAlpha_Data-Redundancy-Removal-System/blob/main/LICENSE) file for details.
 
 ## 💡 Future Enhancements
 
